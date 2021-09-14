@@ -1,0 +1,17 @@
+ .body{
+     margin: 0px;
+     padding: 0%;
+ }
+ #clock{
+    font-size: 175px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 20px solid rgb(223, 74, 74);
+    border-radius: 20px;
+    
+}
+  .h1{
+    font-size:  180px;
+    text-align: center;
+}
